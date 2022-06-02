@@ -1,16 +1,16 @@
-# flutter_persistencia_api_2
+# 🚧  Alura Flutter - bytebank persistencia API 2 🚀 Em construção...  🚧
 
-A new Flutter project.
 
-## Getting Started
+## Projeto desenvolvido no curso básico de flutter na Alura!
+- Neste projeto, você será capaz de inserir dados no formulário e integrar com a API.
+- Validação de transferência.
 
-This project is a starting point for a Flutter application.
+## ✔️ Técnicas e tecnologias
 
-A few resources to get you started if this is your first Flutter project:
+- `Material Design`: Refinamento da interface e novos componentes.
+- `async/await`: Ferramenta do Dart para manipulação de processos assíncronos que dispensa o uso do then.
+- `FutureBuilder`: Componente para carregar dados de maneira assíncrona.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Instruções
+  - Versão do Flutter 3.0.1
+    - Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
